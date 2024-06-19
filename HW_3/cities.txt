@@ -1,0 +1,4 @@
+Tokio: 37785
+Deli:31190
+Manila:24156
+Seul:23225
